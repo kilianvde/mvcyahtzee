@@ -1,6 +1,6 @@
 ﻿namespace Yahtzee
 {
-    partial class Yahtzee
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -64,7 +64,7 @@
             this.btnGooiDobbel.Text = "Gooi dobbelstenen";
             this.btnGooiDobbel.UseVisualStyleBackColor = true;
             // 
-            // Yahtzee
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -73,9 +73,10 @@
             this.Controls.Add(this.pnlSpeler2);
             this.Controls.Add(this.pnlSpeler1);
             this.Controls.Add(this.pnlDobbelstenen);
-            this.Name = "Yahtzee";
+            this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Yahtzee";
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
 
         }

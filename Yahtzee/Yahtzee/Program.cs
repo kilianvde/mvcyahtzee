@@ -16,7 +16,7 @@ namespace Yahtzee
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Yahtzee());
+            Application.Run(new MainForm());
         }
     }
 }
