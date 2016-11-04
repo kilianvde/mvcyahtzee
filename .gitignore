@@ -243,14 +243,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
-Yahtzee/Yahtzee/FILESEHHHHH_HEDDETDEUUURRR.zip
-Yahtzee/Yahtzee/ScoreboardController.cs
-Yahtzee/Yahtzee/ScoreboardModel.cs
-Yahtzee/Yahtzee/ScoreboardView.Designer.cs
-Yahtzee/Yahtzee/ScoreboardView.cs
-Yahtzee/Yahtzee/ScoreboardView.resx
-Yahtzee/Yahtzee/TeerlingController.cs
-Yahtzee/Yahtzee/TeerlingModel.cs
-Yahtzee/Yahtzee/TeerlingView.Designer.cs
-Yahtzee/Yahtzee/TeerlingView.cs
-Yahtzee/Yahtzee/TeerlingView.resx
+

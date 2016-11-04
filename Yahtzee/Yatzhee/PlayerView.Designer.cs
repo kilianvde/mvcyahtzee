@@ -1,4 +1,4 @@
-﻿namespace Yahtzee
+﻿namespace Yatzhee
 {
     partial class PlayerView
     {
@@ -32,10 +32,10 @@
             // 
             // PlayerView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Name = "PlayerView";
-            this.Size = new System.Drawing.Size(388, 352);
+            this.Size = new System.Drawing.Size(1425, 618);
             this.ResumeLayout(false);
 
         }

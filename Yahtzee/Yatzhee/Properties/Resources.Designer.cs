@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Yahtzee.Properties {
+namespace Yatzhee.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Yahtzee.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Yahtzee.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Yatzhee3.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -63,9 +63,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_1 {
+        internal static System.Drawing.Bitmap dice1 {
             get {
-                object obj = ResourceManager.GetObject("dice_1", resourceCulture);
+                object obj = ResourceManager.GetObject("dice1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_2 {
+        internal static System.Drawing.Bitmap dice2 {
             get {
-                object obj = ResourceManager.GetObject("dice_2", resourceCulture);
+                object obj = ResourceManager.GetObject("dice2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_3 {
+        internal static System.Drawing.Bitmap dice3 {
             get {
-                object obj = ResourceManager.GetObject("dice_3", resourceCulture);
+                object obj = ResourceManager.GetObject("dice3", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_4 {
+        internal static System.Drawing.Bitmap dice4 {
             get {
-                object obj = ResourceManager.GetObject("dice_4", resourceCulture);
+                object obj = ResourceManager.GetObject("dice4", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_5 {
+        internal static System.Drawing.Bitmap dice5 {
             get {
-                object obj = ResourceManager.GetObject("dice_5", resourceCulture);
+                object obj = ResourceManager.GetObject("dice5", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,9 +113,9 @@ namespace Yahtzee.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap dice_6 {
+        internal static System.Drawing.Bitmap dice6 {
             get {
-                object obj = ResourceManager.GetObject("dice_6", resourceCulture);
+                object obj = ResourceManager.GetObject("dice6", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
