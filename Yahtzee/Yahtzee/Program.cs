@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Yahtzee
@@ -16,7 +13,12 @@ namespace Yahtzee
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm());
+            Globals.formYahtzee = new MainForm(); 
+            Application.Run(Globals.formYahtzee);
         }
+    }
+    public static class Globals
+    {
+        public static MainForm formYahtzee;
     }
 }
